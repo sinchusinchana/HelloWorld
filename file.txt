@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is FCBD-367E
+
+ Directory of C:\Users\Dell\Desktop\JavaProject1
+
+23-11-2021  23:51    <DIR>          .
+23-11-2021  23:51    <DIR>          ..
+23-11-2021  23:51                 0 file.txt
+23-11-2021  23:37               901 Hello.class
+23-11-2021  23:34               236 Hello.java
+               3 File(s)          1,137 bytes
+               2 Dir(s)  129,620,152,320 bytes free
